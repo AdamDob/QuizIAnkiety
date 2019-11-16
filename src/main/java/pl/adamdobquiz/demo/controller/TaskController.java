@@ -1,12 +1,12 @@
-package pl.adamdobquiz.controller;
+package pl.adamdobquiz.demo.controller;
 
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import pl.adamdobquiz.entity.Task;
-import pl.adamdobquiz.service.TaskService;
+import pl.adamdobquiz.demo.service.TaskService;
+import pl.adamdobquiz.demo.entity.Task;
 
 import java.util.Collection;
 

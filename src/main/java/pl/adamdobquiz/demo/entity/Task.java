@@ -1,4 +1,4 @@
-package pl.adamdobquiz.entity;
+package pl.adamdobquiz.demo.entity;
 
 import lombok.Data;
 
