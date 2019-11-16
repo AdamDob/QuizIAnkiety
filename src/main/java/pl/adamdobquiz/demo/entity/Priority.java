@@ -1,4 +1,5 @@
-package pl.adamdobquiz.demo.entity;
+package pl.adamdobquiz.entity;
 
 public enum Priority {
+    HIGH,NORMAL,LOW;
 }
